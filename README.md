@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Caio
-- 👀 I’m interested in learning programming
+- 👋 Hi, I’m Caio!
+- 👀 I’m interested in learn programming
 - 🌱 I’m currently learning node.js and python
 - 💞️ I’m looking to collaborate on projects of my level skills
-- 📫 How to reach me cgmdariva@outlook.com
+- 📫 How to reach me: cgmdariva@outlook.com
 
 <!---
 cgmdariva/cgmdariva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
