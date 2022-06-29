@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caio!
-- 👀 I’m interested in learn programming
-- 🌱 I’m currently learning node.js and python
+- 👀 I’m interested in learn backend programming
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on projects of my level skills
 - 📫 How to reach me: cgmdariva@outlook.com
 
